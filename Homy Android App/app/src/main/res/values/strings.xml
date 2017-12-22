@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Homy</string>
+
+    <string name="connect_button">Connect Bluetooth</string>
+    <string name="homy">Homy</string>
+    <string name="welcome">Smart Home Manager</string>
+    <string name="scanAndPair">Scanned Devices</string>
+    <string name="title_activity_pairing_devices">PairingDevices</string>
+    <string name="pair_button">Visible</string>
+    <string name="list_button">Scan</string>
+    <string name="next_button">Next</string>
+    <string name="on_button">Turn On</string>
+    <string name="off_button">Turn Off</string>
+    <string name="title_activity_connecting">ConnectingActivity</string>
+    <string name="activity_scrolling">Smart Home</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="component">Manageable Home Components:</string>
+    <string name="lights">Lights:</string>
+    <string name="rgbred">RGB: Red</string>
+    <string name="rgbblue">RGB: Blue</string>
+    <string name="rgbgreen">RGB: Green</string>
+    <string name="rgbtoggle">RGB: Toggling</string>
+    <string name="lamp">Lamp</string>
+    <string name="door">Door</string>
+    <string name="buzzer">Buzzer</string>
+    <string name="toggle">RGB Toggling</string>
+    <string name="action_settings">Settings</string>
+    <string name="ldr">LDR</string>
+    <string name="gas">Gas sensor</string>
+    <string name="allOff">All Off</string>
+    <string name="songMusic">Music</string>
+    <string name="title_activity_connect">ConnectActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_welcome">WelcomeActivity</string>
+</resources>
